@@ -7,7 +7,7 @@ Creating an application called Note Taker that can be used to write and save not
 
 
 ## Task
-- Deploy the entire application to Heroku
+- Deployed the entire application to Heroku
 - Created API route and Html route
 - Video walk through
 
@@ -16,6 +16,14 @@ Creating an application called Note Taker that can be used to write and save not
 
 ## Deployed links
 https://peaceful-journey-91968.herokuapp.com/
+
+https://drive.google.com/file/d/1gov_4bgEwDm72m8GUhnRWuO6oDmvDUjn/view 
+
+https://myleen12.github.io/Hello-note/
+
+https://github.com/myleen12/Hello-note
+
+
 
 
 ## Screenshots
